@@ -6,6 +6,12 @@ const description = "Mi lienzo digital";
 const permalink = Astro.site.href;
 ---
 
+<script>
+  window.alert(
+    "Aún estoy desarrollando mi blog, le falta contenido y arreglar algunos detalles. ¡Saludos! 😄"
+  );
+</script>
+
 <BaseLayout title={title} description={description} permalink={permalink}>
   <div class="home-container">
     <div class="home-copy">
@@ -21,11 +27,11 @@ const permalink = Astro.site.href;
 
     <div class="hero-image-container">
       <picture>
-        <source srcset="/assets/home-welcome.gif" media="(min-width: 600px)" />
+        <source srcset="/assets/notes-home.png" media="(min-width: 600px)" />
         <img
           class="hero-image"
-          alt="Ilustración de una puerta que da la bienvenida"
-          src="/assets/home-welcome.gif"
+          alt="Ilustración una persona escribiendo en una libreta"
+          src="/assets/notes-home.png"
           width="550"
           height="466"
         />
