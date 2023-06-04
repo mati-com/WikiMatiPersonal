@@ -3,7 +3,7 @@ title: Docker 🐳
 publishDate: 02 Jun 2023
 description: Introducción a docker, instalación y uso básicos.
 ---
-<img src="/public/assets/blog/docker.gif" alt= "gif del logo de docker" width="500px" height="500px" style="display: block; margin: 0 auto;">
+
 
 [Docker](https://www.docker.com/) es una herramienta que permite empaquetar y ejecutar aplicaciones de forma aislada en contenedores. Es como una caja virtual que contiene todo lo necesario para que una aplicación funcione correctamente, incluyendo el código, las bibliotecas y las dependencias.
 
@@ -27,6 +27,7 @@ description: Introducción a docker, instalación y uso básicos.
     - [Configuración de variables de entorno en contenedores:](#configuración-de-variables-de-entorno-en-contenedores)
 
 ---
+![Logo de Docker](/assets/blog/docker-logo.png)
 
 # <a name="iad"></a>Introducción a Docker
 
