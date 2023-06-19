@@ -18,7 +18,7 @@ description: Todo sobre la nubulosa de orión
 ## Nebulosa de Oríon
 La Nebulosa de Orión se encuentra ubicada a 1344 años luz de la Tierra y es el objeto central de la llamada "Espada de Orión", una línea bien definida de tres fuentes de luz relativamente brillantes. Debido a su gran tamaño y relativa cercanía a la Tierra, fue objeto de atracción para los científicos en los primeros años del desarrollo de la astronomía. No es sorprendente que esta estructura sea uno de los objetos espaciales más estudiados.
 
-<img src="/public/assets/blog/orion-espada.gif" alt="" style="display: block; margin-left: auto; margin-right: auto; width: 100%;" />
+<img src="/assets/blog/orion-espada.gif" alt="" style="display: block; margin-left: auto; margin-right: auto; width: 100%;" />
 
 Las primeras imágenes detalladas de la Nebulosa de Orión fueron tomadas por el telescopio espacial Hubble en 1993 y nos mostraron la increíble variedad de sus colores. La mayor parte del material presentaba un tono rojizo o azul violeta, sin embargo, el análisis espectral de algunas regiones marginales mostró líneas inusuales de color verde brillante.
 
